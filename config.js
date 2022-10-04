@@ -14,7 +14,7 @@ global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: Albin"
 global.OwnerName = "Albin"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
+global.BotSourceCode = "https://github.com/Albinbluz/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
@@ -27,7 +27,7 @@ global.location = "Kerala, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/Albinbluz"
 global.lolhuman = "KaysaS"
 
 
